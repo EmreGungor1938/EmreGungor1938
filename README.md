@@ -16,3 +16,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emregungor1938&show_icons=true&locale=en" alt="emregungor1938" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emregungor1938&" alt="emregungor1938" /></p>
+
+
+
+
+
+
+![snake gif](https://github.com/EmreGungor1938/EmreGungor1938/blob/output/github-contribution-grid-snake.gif)
