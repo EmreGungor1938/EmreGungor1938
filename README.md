@@ -1,4 +1,4 @@
- [![MasterHead](https://miro.medium.com/v2/resize:fit:1200/1*2xsLeLNqKwIoGOQlw8O6Ug.png)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1200/1*2xsLeLNqKwIoGOQlw8O6Ug.png)
 <h1 align="center">Hi 👋, I'm Emre Güngör</h1>
 <h3 align="center">I am studying at Konya Technical University in Turkey and I am a Front End Developer Student.</h3>
 
