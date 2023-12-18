@@ -79,9 +79,7 @@ jobs:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
 
 <p align="center">
-  <img height="150" width="150" src="WEBP/left.webp">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=EmreGungor1938&theme=dark&background=000000"/>
-  <img height="150" width="150" src="WEBP/right.webp">
 </p>
 
 
