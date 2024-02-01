@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=emregungor1938.emregungor1938&"  />
 </div>
 
