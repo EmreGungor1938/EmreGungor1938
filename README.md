@@ -61,7 +61,7 @@
 
 ###
 
-<img align="right" height="150" <a href="https://imgflip.com/i/8ebpvl"><img src="https://i.imgflip.com/8ebpvl.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div> />
+<img align="right" height="150" <div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div> />
 
 ###
 </div>
