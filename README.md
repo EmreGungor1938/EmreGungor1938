@@ -28,14 +28,6 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Emre and I'm a Front-end Developer, from Turkey</h2>
-
-###
-
-
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/emre.gungor01/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -50,6 +42,6 @@
 
 ###
 
-<a href="https://imgflip.com/i/8ebpvl"><img src="https://i.imgflip.com/8ebpvl.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+<a href="https://imgflip.com/i/8ebpvl"><img src="https://i.imgflip.com/8ebpvl.jpg" title="made at imgflip.com"/></a><div></div>
 
 ###
