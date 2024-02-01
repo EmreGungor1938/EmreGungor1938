@@ -35,7 +35,7 @@
 
 ###
 
-<br clear="both">
+
 
 <h2 align="left"></h2>
 
@@ -45,7 +45,7 @@
 </div>
 
 ###
-<br clear="both">
+
 
 <h2 align="left"></h2>
 
