@@ -49,9 +49,9 @@
 </div>
 
 ###
-
+<div align="center">
 <a href="https://imgflip.com/i/8ebpvl"><img src="https://i.imgflip.com/8ebpvl.jpg" title="made at imgflip.com"/></a><div></div>
-
+</div>
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
