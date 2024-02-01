@@ -46,6 +46,16 @@
 </div>
 
 ###
+<br clear="both">
+
+<h2 align="left"></h2>
+
+###
+
+<div align="left">
+</div>
+
+###
 
 <div align="left">
   <a href="https://www.instagram.com/emre.gungor01/" target="_blank">
@@ -61,9 +71,6 @@
 
 ###
 
-<img align="right" height="150" <div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div> />
-
-###
-</div>
+<a href="https://imgflip.com/i/8ebpvl"><img src="https://i.imgflip.com/8ebpvl.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
 
 ###
