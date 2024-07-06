@@ -1,4 +1,4 @@
- ![MasterHead](https://image.spreadshirtmedia.com/image-server/v1/mp/products/T1459A839PA3861PT28D1020294868W8333H10000/views/1,width=1200,height=630,appearanceId=839,backgroundColor=F2F2F2/front-end-developer-t-shirt-sticker.jpg)
+![Emre Güngör (2)](https://github.com/EmreGungor1938/EmreGungor1938/assets/152696970/3ad83c4f-242e-44ad-8cab-ebffb9c8255c)
 <h1 align="center">Hi 👋, I'm Emre Güngör</h1>
 <h3 align="center">Konya Teknik Üniversitesinde Bilgisayar programcılığı eğitimime aktif olarak devam etmekteyim. 1. sınıfta ve 2. sınıfta okulumla birlikte eş zamanlı olarak projeler tasarlamakla birlikte eğitim hayatım boyunca yeni bilgiler edindim. Okul hayatım boyunca front-end kısmına ilgi duyduğum gibi bu alanda kendimi geliştirmek adına araştırma, uygulama ve pratiklerle kendimi bu alanda geliştirmeye çalışıyorum. Sadece bu alanda takılı kalmayıp yeni alanlarda da kendime yeni bilgiler katmaya çalışıyorum.</h3>
 
